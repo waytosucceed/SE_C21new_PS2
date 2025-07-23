@@ -1,0 +1,223 @@
+{
+  "heading": "Introduction to propotion",
+  "topics": [
+    {
+      "heading": "Introduction to propotion",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": ["Do the ratios 2:3 and 16:25 form a proportion?"],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": ["Comment on whether the following two ratios are in proportion or not:<br> 3.2 meters : 6.32 meters<br> 8 seconds : 15.8 seconds"],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 3,
+    "question": ["If the numbers 3, 4, 12, and 'p' are in proportion, then the value of 'p' is 15."],
+    "options": [
+      { "text": "True" },
+      { "text": "False" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": ["Do the ratios 5:9 and 15:28 form a proportion?"],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": ["Do the numbers 2, 6, and 12 form a continued proportion?"],
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 6,
+    "question": [
+          "In the proportion 9, x, 25, find the value of x.<BR> ______"],
+    "input": [ ""],
+    "answer": ["15"]
+  },{
+    "questionNo": 7,
+    "question": [" Find the value of x in the proportion<BR>",{
+              "fraction": {
+                "whole": "",
+                "numerator": 2,
+                "denominator": 3
+              }
+            },
+          " : x :: ",
+        {
+              "fraction": {
+                "whole": "",
+                "numerator": 3,
+                "denominator": 4
+              }
+            }, " : ",{
+              "fraction": {
+                "whole": "",
+                "numerator": 1,
+                "denominator": 2
+              }
+            },"<br>",
+          {
+              "fraction": {
+                "whole": "",
+                "numerator": "______",
+                "denominator": "______"
+              }
+            }],
+    "input": ["",""],
+    "answer": ["4","9"]
+  },
+  {
+    "questionNo": 8,
+    "question": [
+          "Find the fourth proportional to 3.6, 7.4, and 12.6<BR> ______.______"],
+    "input": [ "",""],
+    "answer": ["25","9"]
+  },
+  {
+    "questionNo": 9,
+    "question": [
+          "Find the third proportional to 5 and 10.<BR> ______"],
+    "input": [ ""],
+    "answer": ["20"]
+  },
+  {
+    "questionNo": 10,
+    "question": [
+          "If the last three terms of a proportion are 96, 36, 144, find the first term.<BR> ______"],
+    "input": [ ""],
+    "answer": ["24"]
+  },
+  {
+    "questionNo": 11,
+    "question": [
+          "Find the missing number in the proportion: <BR>6 : 9 :: 14 : x<BR> ______"],
+    "input": [ ""],
+    "answer": ["21"]
+  },
+  {
+    "questionNo": 12,
+    "question": ["The ratio between the length and width of a rectangle is 5:7. If the length of the rectangle is 25 cm, find its width."],
+    "options": [
+      { "text": "35 cm" },
+      { "text": "25 cm" },
+      { "text": "20 cm" },
+      { "text": "19 cm" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 13,
+    "question": ["A map is drawn to a scale of 1 cm representing 25 km. If two towns are 3 cm apart on the map, what is the actual distance between them?"],
+    "options": [
+      { "text": "8.33 km" },
+      { "text": "75 km" },
+      { "text": "22 km" },
+      { "text": "150 km" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 14,
+    "question": ["A tree casts a shadow of 7 meters. At the same time, a person who is 1.8 meters tall casts a shadow of 1.4 meters. How tall is the tree?"],
+    "options": [
+      { "text": "9 meters" },
+      { "text": "7 meters" },
+      { "text": "5 meters" },
+      { "text": "4.7 meters" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 15,
+    "question": ["A map has a scale of 1:50000. If two landmarks are 6 cm apart on the map, what is the actual distance between them in kilometers?"],
+    "options": [
+      { "text": "0.3 km" },
+      { "text": "3 km" },
+      { "text": "30 km" },
+      { "text": "300 km" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 16,
+    "question": ["A flagpole casts a shadow of 3 meters. At the same time, a nearby building that is 12 meters tall casts a shadow of 4 meters. How tall is the flagpole?"],
+    "options": [
+      { "text": "6 meters" },
+      { "text": "9 meters" },
+      { "text": "15 meters" },
+      { "text": "16 meters" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 17,
+    "question": ["In a bakery, there are 2 bakers for every 7 ovens. How many bakers are needed if the bakery has 21 ovens?"],
+    "options": [
+      { "text": "3" },
+      { "text": "4" },
+      { "text": "6" },
+      { "text": "8" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 18,
+    "question": ["A building casts a shadow of 10 meters. At the same time, a pole that is 2 meters tall casts a shadow of 0.8 meters. How tall is the building?"],
+    "options": [
+      { "text": "16 meters" },
+      { "text": "18 meters" },
+      { "text": "20 meters" },
+      { "text": "25 meters" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 19,
+    "question": ["If 3 kg of rice costs $150, what is the cost of 900 grams of rice?"],
+    "options": [
+      { "text": "$30" },
+      { "text": "$36" },
+      { "text": "$40" },
+      { "text": "$45" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 20,
+    "question": ["A truck travels 120 km in 2 hours. At the same speed, how far will it travel in 3 hours 30 minutes?"],
+    "options": [
+      { "text": "180 km" },
+      { "text": "200 km" },
+      { "text": "210 km" },
+      { "text": "220 km" }
+    ],
+    "answer": 2
+  }
+]
+
+
+    }
+  ]
+}
