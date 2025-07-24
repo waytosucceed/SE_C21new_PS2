@@ -7,7 +7,7 @@ var previousQuestionIndex = null // Track the previously displayed question
 var topicName = '' // Variable to store the topic name
 const submitSound = document.getElementById('submit-sound')
 
-const uniqueKey = 'Introduction to propotion'
+const uniqueKey = 'Introduction to Proportion'
 
 // Helper function to save data in local storage under the unique key
 function saveToLocalStorage (key, value) {
